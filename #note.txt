@@ -7,3 +7,6 @@ iii. container
 iv. stand alone
 
 50-2 Header Component, logo position, set nav menu
+
+50-3 Shop Component Layout, load data and set state
+fetch('public/fakeData/products.json').then(res => res.json()).then(data => setProducts(data))
