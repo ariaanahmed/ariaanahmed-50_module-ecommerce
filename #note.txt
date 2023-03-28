@@ -10,3 +10,9 @@ iv. stand alone
 
 50-3 Shop Component Layout, load data and set state
 fetch('public/fakeData/products.json').then(res => res.json()).then(data => setProducts(data))
+
+50-4 Product Component, component layout, display data
+
+50-5 Style Product Cart, style debug and button position
+
+50-6 (advanced) set eventhandler, pass eventhandler to child

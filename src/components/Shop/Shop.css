@@ -1,4 +1,15 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    margin: 0 auto;
+    max-width: 1240px;
+}
+
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 7px;
 }
