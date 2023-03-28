@@ -1,0 +1,9 @@
+50-1 Module Introduction, site resources, figma
+programming hero1 - repo> ema-john-resources
+
+i. silimar in look different in data.
+ii. broken down to small pieces
+iii. container
+iv. stand alone
+
+50-2 Header Component, logo position, set nav menu
