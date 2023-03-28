@@ -16,3 +16,21 @@ fetch('public/fakeData/products.json').then(res => res.json()).then(data => setP
 50-5 Style Product Cart, style debug and button position
 
 50-6 (advanced) set eventhandler, pass eventhandler to child
+
+react unidirectional howay eta sudhu upor thek niche aste pare. nich theke upore jete pare na. eventhandler ta add kora hobe shop.js e taholei eta kaj korbe ebong eta props hisebe send kora jabe
+
+50-7 (advanced) Cart state setup, react-fontawesome, display icon
+fontawesome icon er npm install kora hoise ei video te 8:28 minutes
+https://fontawesome.com/v5/docs/web/use-with/react - react font awesome
+
+install this link on the terminal
+npm i --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+
+to use: 
+  import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+  import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+
+  <FontAwesomeIcon icon={faCoffee} />
+
+
+50-8 Module summary and deploy to surge or netlify
