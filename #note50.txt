@@ -34,3 +34,6 @@ to use:
 
 
 50-8 Module summary and deploy to surge or netlify
+
+a. npm run build
+b. cmd > cd dist
