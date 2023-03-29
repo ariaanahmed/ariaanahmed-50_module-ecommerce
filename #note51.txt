@@ -12,3 +12,7 @@ git remote -v ei command ta diye check kora jay file kono git e push hocche
 51-5 (advanced) Load cart from local storage, find product
 
 51-6 (advanced) Display local storage cart to the UI
+
+51-7 (super advanced) Handle quantity from storage to cart
+
+51-8 Module summary, deploy, code recap
