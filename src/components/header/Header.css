@@ -7,6 +7,9 @@
     padding: 0 100px;
     max-width: 1240px;
     margin: 0 auto;
+    position: sticky;
+    top: 0px;
+    z-index: 11111;
 }
 
 .navbar{

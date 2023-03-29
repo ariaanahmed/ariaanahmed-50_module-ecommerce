@@ -1,8 +1,12 @@
 51-1 Module Introduction and simple ema-john recap
 
-react er kono project clone korle npm install kore nite hobe naile eta kaj korbe naa.
+react er kono project clone korle 'npm install' kore nite hobe naile eta kaj korbe naa.
 git remote -v ei command ta diye check kora jay file kono git e push hocche
 
 51-2 Run Github clone react project, Create Cart Component
 
 51-3 Calculate shopping cart price, shipping and tax with toFixed
+
+51-4 Setting the cart data on the localStorage for future retrieve
+
+51-5 (advanced) Load cart from local storage, find product
